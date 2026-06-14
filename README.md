@@ -4,24 +4,30 @@
 
 Building responsive, scalable, and user-focused web applications with modern frontend technologies.
 
+<p>
+  <a href="https://github.com/abdihabtamu368-cpu">GitHub</a> •
+  <a href="https://t.me/abdi_hab">Telegram</a> •
+  <a href="mailto:abdihabtamu368@gmail.com">Email</a>
+</p>
+
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am a **Frontend Engineer** focused on building modern, responsive, and maintainable web applications.
+I am a passionate **Frontend Engineer** focused on building modern, responsive, and maintainable web applications.
 
-My work centers on transforming ideas and designs into clean, reusable interfaces with strong attention to **performance, accessibility, and user experience**.
+My work centers on transforming ideas into clean, reusable, and user-friendly interfaces with strong attention to performance, accessibility, and user experience.
 
-I primarily work with **React, Next.js, TypeScript, and modern UI tooling**, while continuously expanding my skills in full-stack development.
+I enjoy learning new technologies, solving real-world problems, and creating products that deliver value to users.
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
 ### Frontend
-- React
+- React.js
 - Next.js
 - TypeScript
 - JavaScript (ES6+)
@@ -30,37 +36,55 @@ I primarily work with **React, Next.js, TypeScript, and modern UI tooling**, whi
 - Tailwind CSS
 
 ### Tools & Platforms
-- Git
-- GitHub
+- Git & GitHub
 - VS Code
 - Vercel
 - Figma
 
 ---
 
-## Current Focus
+## 🌱 Currently Learning
 
-- Building scalable frontend applications
-- Writing clean and maintainable code
-- Improving UI/UX implementation skills
-- Learning advanced React and TypeScript patterns
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdihabtamu368-cpu&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdihabtamu368-cpu&layout=compact" alt="Top Languages" />
-</p>
+- Advanced React Patterns
+- Full-Stack Development
+- Next.js Server Components
+- Backend Development with Node.js
 
 ---
 
-## Connect With Me
+## 🎯 Career Goals
 
-- GitHub: https://github.com/abdihabtamu368-cpu
-- LinkedIn: Add your LinkedIn link
-- Portfolio: Add your portfolio link
+- Build high-quality web applications
+- Contribute to open-source projects
+- Master modern frontend architecture
+- Grow into a full-stack software engineer
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdihabtamu368-cpu&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdihabtamu368-cpu&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+📧 Email: abdihabtamu368@gmail.com
+
+💬 Telegram: https://t.me/abdi_hab
+
+🐙 GitHub: https://github.com/abdihabtamu368-cpu
+
+---
+
+### 💡 Quote
+
+> "Code. Learn. Build. Improve."
+
+⭐ Thanks for visiting my profile!
